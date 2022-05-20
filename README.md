@@ -8,7 +8,8 @@
 <summary>
 EXAMPLE
 </summary>
-(example.gif)
+
+![Example](example.gif)
 </details>
 <hr>
 
