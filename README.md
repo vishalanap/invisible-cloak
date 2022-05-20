@@ -4,6 +4,9 @@
 * An invisibility cloak is a magical garment which rendered whomever or whatever it covered invisible.
 * This effect can be produced using computer vision.
 * In this program blue coloured objects used to produce invisibility cloak effect.
+
+##### example
+[!example](example.gif)
 <hr>
 
 ### Pre-requisites
