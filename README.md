@@ -6,7 +6,7 @@
 * In this program blue coloured objects used to produce invisibility cloak effect.
 <details>
 <summary>
-EXAMPLE
+example
 </summary>
 
 ![Example](example.gif)
