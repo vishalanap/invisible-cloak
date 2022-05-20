@@ -22,4 +22,14 @@ pip install numpy
 ```
 <hr>
 
-### Algorithm
+### Workflow
+
+<hr>
+
+1. Import the necessary libraries.
+2. Use webcam to capture the live feed of the person and the background.
+3. Capture the initial background.
+4. Set the values for the Cloak i.e. the cloth selected.
+5. Making 2 masks and applying them to the frame.
+6. Combine the masks and show them scimultaneously.
+7. Display the final output.
