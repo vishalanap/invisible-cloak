@@ -8,10 +8,11 @@
 <hr>
 <p align="center">
 <a href=" ">
-    <img src="example.png" alt="example1"/>
+    <img src="example.gif" alt="example1"/>
 </a>
 </p>
 <hr>
+
 ### Pre-requisites
 <hr>
 
