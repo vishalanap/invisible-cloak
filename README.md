@@ -8,7 +8,7 @@
 <hr>
 <p align="center">
 <a href=" ">
-    <img src="example.gif" alt="example1"/>
+    <img src="example.gif" alt="example1" height="200px" width="200px"/>
 </a>
 </p>
 <hr>
