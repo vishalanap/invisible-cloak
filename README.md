@@ -5,9 +5,13 @@
 * This effect can be produced using computer vision.
 * In this program blue coloured objects used to produce invisibility cloak effect.
 
-![Example](example.gif)
 <hr>
-
+<p align="center">
+<a href=" ">
+    <img src="example.png" alt="example1"/>
+</a>
+</p>
+<hr>
 ### Pre-requisites
 <hr>
 
